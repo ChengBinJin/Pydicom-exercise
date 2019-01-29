@@ -1,0 +1,4 @@
+data/
+src/.idea/
+src/__pycache__/
+src/*.dcom
